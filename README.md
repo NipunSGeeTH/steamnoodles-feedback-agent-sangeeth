@@ -2,6 +2,11 @@
 
 This project provides a feedback analysis and response generation system for the SteamNoodles restaurant chain. It leverages sentiment analysis and generative AI to process customer feedback, visualize sentiment trends, and generate professional responses.
 
+<img  height="604" alt="Screenshot From 2025-08-17 21-29-34" src="https://github.com/user-attachments/assets/8c415a3b-3dda-4077-b3ad-ef2b83551691" />
+<img  height="391" alt="Screenshot From 2025-08-17 21-29-49" src="https://github.com/user-attachments/assets/a773dee3-9726-4ee6-836d-126f805b2daa" />
+
+
+
 ### Features
 - **Sentiment Analysis**: Classifies feedback as positive or negative using HuggingFace's DistilBERT model.
 - **Response Generation**: Uses Google Gemini (Flash) to generate empathetic, professional replies to customer feedback.
